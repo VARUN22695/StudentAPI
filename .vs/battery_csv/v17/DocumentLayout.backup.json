@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chand\\source\\repos\\battery_csv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B9F482-0172-4969-9CAB-89BBEAD09765}|pythonapplication\\pythonapplication.pyproj|C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E0B9F482-0172-4969-9CAB-89BBEAD09765}|pythonapplication\\pythonapplication.pyproj|solutionrelative:pythonapplication\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|pythonapplication||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B9F482-0172-4969-9CAB-89BBEAD09765}|pythonapplication\\pythonapplication.pyproj|C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\pythonapplication.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E0B9F482-0172-4969-9CAB-89BBEAD09765}|pythonapplication\\pythonapplication.pyproj|solutionrelative:pythonapplication\\pythonapplication.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B9F482-0172-4969-9CAB-89BBEAD09765}|pythonapplication\\pythonapplication.pyproj|C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\pythonapplication.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9a46bc86-34cb-4597-83e5-498e3bdba20a",
+      "RelativeMoniker": "D:0:0:{E0B9F482-0172-4969-9CAB-89BBEAD09765}|pythonapplication\\pythonapplication.pyproj|solutionrelative:pythonapplication\\pythonapplication.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9a46bc86-34cb-4597-83e5-498e3bdba20a"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pythonapplication",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\pythonapplication.pyproj",
+              "RelativeDocumentMoniker": "pythonapplication\\pythonapplication.pyproj",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\pythonapplication.pyproj*",
+              "RelativeToolTip": "pythonapplication\\pythonapplication.pyproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-05T13:52:55.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\main.py",
+              "RelativeDocumentMoniker": "pythonapplication\\main.py",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\main.py",
+              "RelativeToolTip": "pythonapplication\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-05T13:43:08.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pythonapplication.py",
+              "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\pythonapplication.py",
+              "RelativeDocumentMoniker": "pythonapplication\\pythonapplication.py",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\battery_csv\\pythonapplication\\pythonapplication.py",
+              "RelativeToolTip": "pythonapplication\\pythonapplication.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-05T13:40:26.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
