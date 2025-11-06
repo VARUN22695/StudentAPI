@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Student App</title>
+</head>
+<body>
+    <h2>Add Student</h2>
+    <input id="name" placeholder="Name">
+    <input id="age" placeholder="Age" type="number">
+    <input id="course" placeholder="Course">
+    <button onclick="addStudent()">Add</button>
+
+    <h2>All Students</h2>
+    <ul id="students"></ul>
+
+    <script>
+    const baseUrl = 'https://localhost:7079/api/student';
+
+    async function loadStudents() {
+      const res = await fetch(baseUrl);
+      const data = await res.json();
+      const list = document.getElementById('students');
+      list.innerHTML = '';
+      data.forEach(s => {
+        list.innerHTML += `<li>${s.name} - ${s.age} - ${s.course}</li>`;
+      });
+    }
+
+    async function addStudent() {
+      const student = {
+        name: document.getElementById('name').value,
+        age: parseInt(document.getElementById('age').value),
+        course: document.getElementById('course').value
+      };
+      await fetch(baseUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(student)
+      });
+      loadStudents();
+    }
+
+    loadStudents();
+    </script>
+</body>
+</html>
