@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using StudentApi.Data;
 using StudentApi.Models;
-using StudentApi.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace StudentApi.Controllers
