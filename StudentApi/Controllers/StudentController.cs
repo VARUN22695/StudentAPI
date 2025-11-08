@@ -29,5 +29,14 @@ namespace StudentApi.Controllers
             await _context.SaveChangesAsync();
             return CreatedAtAction(nameof(GetStudents), new { id = student.Id }, student);
         }
+        [HttpGet("{id}")]
+        public IActionResult GetStudentById(int id)
+        {
+            var student = _context.Students.FirstOrDefault(s => s.Id == id);
+            if (student == null)
+                return NotFound();
+            return Ok(student);
+        }
+
     }
 }
