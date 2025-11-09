@@ -50,9 +50,9 @@
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\chand\\source\\repos\\StudentApi\\StudentApi\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApi\\StudentApi\\Controllers\\StudentController.cs*",
-              "RelativeToolTip": "StudentApi\\Controllers\\StudentController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chand\\source\\repos\\StudentApi\\StudentApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T17:48:37.298Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "StudentApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:46:55.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T17:46:55.172Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "StudentApi\\wwwroot\\index.html",
               "ViewState": "AgIAABIAAAAAAAAAAAAuwCgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-03T18:40:13.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T18:40:13.237Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "StudentApi\\StudentApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-03T15:10:17.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T15:10:17.587Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "StudentApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-03T14:58:26.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T14:58:26.638Z"
             }
           ]
         }
